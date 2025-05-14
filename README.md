@@ -1,6 +1,6 @@
 # InsecureCodeLab
 
-Laboratorios prácticos para realizar Secure Code Review en Python. Este proyecto explora vulnerabilidades comunes del OWASP Top Ten mediante aplicaciones diseñadas intencionalmente inseguras. Cada código vulnerable incluye una solución propuesta, pero se recomienda que primero intentes desarrollar tu propia remediación antes de revisar las soluciones proporcionadas. Recuerda, no hay un único camino para mitigar estas vulnerabilidades; existen múltiples enfoques para resolver cada problema.
+Laboratorios prácticos para realizar Secure Code Review en Python. Este proyecto explora no solo vulnerabilidades comunes del OWASP Top Ten, sino también muchas otras que no se incluyen en este TOP. Todo esto, mediante aplicaciones diseñadas intencionalmente inseguras. Cada código vulnerable incluye una solución propuesta, pero se recomienda que primero intentes desarrollar tu propia remediación antes de revisar las soluciones proporcionadas. Recuerda, no hay un único camino para mitigar estas vulnerabilidades; existen múltiples enfoques para resolver cada problema.
 
 ---
 
