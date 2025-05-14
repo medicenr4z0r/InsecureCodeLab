@@ -66,3 +66,4 @@ if __name__ == '__main__':
 # 1. python3 sqli.py
 # 2. curl -X POST http://localhost:5000/login -d "username=razor' OR ''='--"
 
+# Referencias: https://r4z0r.gitbook.io/las-notas-de-r4z0r/web-app-pentest/sql-nosql-injection/sql-injection
