@@ -12,3 +12,5 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    
+# Referencias: https://r4z0r.gitbook.io/las-notas-de-r4z0r/web-app-pentest/cross-site-scripting-xss

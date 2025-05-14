@@ -9,10 +9,10 @@ def index():
         <!DOCTYPE html>
         <html>
         <head>
-            <title>DOM XSS Example</title>
+            <title>DOM XSS Lab</title>
         </head>
         <body>
-            <h1>DOM XSS Example</h1>
+            <h1>DOM XSS Lab</h1>
             <p>Ingresa un mensaje en el parámetro "texto" de la URL.</p>
             <p>Ejemplo: http://127.0.0.1:5000/?texto=test</p>
             <p id="output"></p>
@@ -48,4 +48,4 @@ window.name
 postMessage() (si el contenido no está validado y sanitizado)
 '''
 
-
+# Referencias: https://r4z0r.gitbook.io/las-notas-de-r4z0r/web-app-pentest/cross-site-scripting-xss
